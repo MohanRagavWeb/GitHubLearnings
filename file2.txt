@@ -3,3 +3,4 @@ this file is created in file2
 file edited in branch1
 
 file edited in branch2
+file edited in branch1 
