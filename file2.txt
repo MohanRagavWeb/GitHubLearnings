@@ -1,3 +1,4 @@
 file edited in branch1
 file edited in branch2 
 
+change in GUI
