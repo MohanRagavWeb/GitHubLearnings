@@ -1,0 +1,7 @@
+GIT COMMANDS 
+
+git init
+git add .
+git commit -m "your message"
+git remote add origin <repo-url>
+git push origin master/main
